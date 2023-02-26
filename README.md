@@ -26,10 +26,10 @@ By taking all of these factors into account, we aimed to provide a comprehensive
 Repository Contents
 This repository contains the following files:
 
-README.md: Provides an overview of the analysis and repository contents.
-US_Market_Analysis.ipynb: A Jupyter notebook documenting the analysis, including the methodology employed, any assumptions made, and the results of the analysis.
-data/: A folder containing the raw and cleaned data used in the analysis.
-visualizations/: A folder containing any relevant visualizations, such as charts and graphs, used in the analysis.
+1-README.md: Provides an overview of the analysis and repository contents.
+2-US_Market_Analysis.ipynb: A Jupyter notebook documenting the analysis, including the methodology employed, any assumptions made, and the results of the analysis.
+3-data/: A folder containing the raw and cleaned data used in the analysis.
+4-visualizations/: A folder containing any relevant visualizations, such as charts and graphs, used in the analysis.
 
 Conclusion
 By analyzing the factors mentioned above, we identified the top market for a new business in the US. The details of our analysis can be found in the US_Market_Analysis.ipynb file. We hope that this analysis will be useful for stakeholders seeking to start a new business in the US.
