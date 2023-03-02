@@ -4,14 +4,14 @@ Purpose
 The purpose of this analysis is to identify the best market in the US for a new business based on several factors, including demand, competition, regulatory environment, cost of doing business, customer demographics, cultural differences, and availability of resources. By evaluating these factors, we aim to provide a comprehensive analysis of the potential markets and help stakeholders make an informed decision.
 
 Methodology Employed
-1- To identify the best market in the US, we employed the following methodology:
+To identify the best market in the US, we employed the following methodology:
 
-2- Collect and clean historical data on demand and competition for various markets in the US.
+1- Collect and clean historical data on demand and competition for various markets in the US.
 
-3- Analyze the data to identify markets with high demand and low competition.
+2- Analyze the data to identify markets with high demand and low competition.
 Evaluate the regulatory environment, cost of doing business, customer demographics, cultural differences, and availability of resources in the top markets identified in step 2.
 
-4- Use this information to rank the potential markets and recommend the top market for a new business.
+3- Use this information to rank the potential markets and recommend the top market for a new business.
 
 Factors Considered
 1- Competition
